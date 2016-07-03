@@ -16,7 +16,7 @@ var wilson = require('wilson-score')
 - `total` - the total number of votes
 - `z-score` - the z-score of the interval.
   By default, it's ~2.3 which corresponds to a 99% confidence interval.
-  Use `1.644853` for 95%.
+  Use `1.644853` for 90% or `1.96` for 95%.
 
 Instead of calculating the average as `up / total`,
 calculate the wilson score via `wilson(up, total)`.
