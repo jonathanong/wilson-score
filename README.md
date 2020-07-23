@@ -1,7 +1,7 @@
 # Wilson Score [![Build Status](https://travis-ci.org/math-utils/wilson-score.png)](https://travis-ci.org/math-utils/wilson-score)
 
 Calculates the lower bound of the [binomial proportion confidence interval](http://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval) as calculated by the [Wilson score interval](http://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Wilson_score_interval).
-If you're not retarded, you would use this score instead of averages when sorting and ranking (doesn't matter what the user sees).
+If you know your stuff, you would use this score instead of averages when sorting and ranking (doesn't matter what the user sees).
 This is what [reddit uses](http://amix.dk/blog/post/19588) for "best".
 
 ## API
